@@ -1,6 +1,6 @@
 <h1>Portfolio Resume</h1>
 <p>Designed Responsive Resume using Html,Css</p>
-<h2>Project Link:- <a href="https://modest-hermann-1f83bb.netlify.app/" style="color:blue"><p>click here to see the Output</p></a></h2>
+<h2>Project Link:- <a href="https://modest-hermann-1f83bb.netlify.app/" style="color:blue">Click here to see the Output</a></h2>
 <h2>Editor:- <a href="https://code.visualstudio.com/" style="color:blue">Visual Studio code-</a><p>This is what I typically use. It's open source and has tons of extensions available.</p></h2>
 <h2>Contents</h2>
 <ul>
